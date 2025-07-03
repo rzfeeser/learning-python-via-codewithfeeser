@@ -1,0 +1,4 @@
+Hello
+We are learning how to read data
+From a file
+With Python
