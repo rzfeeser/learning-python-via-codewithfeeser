@@ -6,7 +6,7 @@ Hey gang! Professor Feeser here. This repository contains code used in my **Lear
 This repository has a flat structure. Each script (`*.py`) is a stand alone Python script used for teaching purposes.
 
 
-## Demos
+## Video Demos
 Videos demonstrating the code in this repository are available on the author's [YouTube Channel @CodeWithFeeser](https://www.youtube.com/@CodeWithFeeser):  
 
 - [[Code With Feeser] • Learn Python - Lesson 00 - Introduction to Coding](https://www.youtube.com/watch?v=kxXenz9aOx0)
