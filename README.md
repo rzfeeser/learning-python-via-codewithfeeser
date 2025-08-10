@@ -26,7 +26,7 @@ Videos demonstrating the code in this repository are available on the author's [
 - [[Code With Feeser] • Learn Python - Lesson 14 - A Simple Role Playing Game](https://www.youtube.com/watch?v=ohFHiwNTkA0)
 
 
-If you found the video helpful, be sure to hit **like** and **subscribe** for weekly lessons from CodeWithFeeser.
+If you found a video helpful, be sure to hit **like** and **subscribe** for weekly lessons from [YouTube Channel @CodeWithFeeser](https://www.youtube.com/@CodeWithFeeser)
 
 
 ## How to Use This Repository
@@ -34,7 +34,7 @@ This repository is a best practice repository I use for teaching structure and o
 
 
 ## Helpful Notes
-- 
+- Even if you are familiar with Python, the first few videos demonstrate how to get started with executing Python code within a GitHub codespace. They might be worth watching if GitHub Codespaces are new to you.
 
 
 ## Help & Training
